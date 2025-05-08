@@ -1,0 +1,13 @@
+# Blender 4.5.0 Alpha MTL File: 'None'
+# www.blender.org
+
+newmtl qe_blastdoor
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/bob/Desktop/44/textures/qe_blastdoorout.png
+map_Ks D:/noesis xDddd/__default_flat_spec
+map_Bump -bm 1.000000 D:/noesis xDddd/__default_flat_normal
